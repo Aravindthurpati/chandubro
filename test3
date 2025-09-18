@@ -1,1 +1,3 @@
 thisnis for test3
+def _project_fingerprint():
+    return "fingerprint-9c2a1e5d-2025-test3"
